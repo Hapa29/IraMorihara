@@ -13,7 +13,7 @@ body:after {
     z-index: -1;
 }
 
-#HCB_comment_box{
+#comments{
     padding-left: 50px;
     padding-right: 50px;
 }
